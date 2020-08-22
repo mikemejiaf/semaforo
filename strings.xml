@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">semaforo</string>
+    <string name="txt_Placa">Placa</string>
+    <string name="txt_fecha">Fecha</string>
+    <string name="txt_hora">Hora</string>
+    <string name="txt_result">Resultado</string>
+    <string name="button">Verificar</string>
+</resources>
